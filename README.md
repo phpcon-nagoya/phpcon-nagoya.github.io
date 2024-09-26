@@ -1,1 +1,0 @@
-# phpcon-nagoya.github.io
